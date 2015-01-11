@@ -1,14 +1,14 @@
-McClure's Magazine
-Vol. XX, No. 3
+## McClure's Magazine Vol. XX, No. 3
 
-January, 1903
+## January, 1903
 
-THE SHAME OF MINNEAPOLIS
-The Rescue and Redemption of a City that was Sold Out
+# THE SHAME OF MINNEAPOLIS
 
-BY LINCOLN STEFFENS
+## The Rescue and Redemption of a City that was Sold Out
 
-Copyright, 1902, by the S. S. McClure Co. All rights reserved.
+## BY LINCOLN STEFFENS
+
+### Copyright, 1902, by the S. S. McClure Co. All rights reserved.
 
 
 WHENEVER anything extraordinary is done in American municipal politics, whether for good or for evil, you can trace it almost invariably to one man. The people do not do it. Neither do the "gangs," "combines," or political parties. These are but instruments by which bosses (not leaders; we Americans are not led, but driven) rule the people, and commonly sell them out. But there are at least two forms of the autocracy which has supplanted the democracy here as it has everywhere it has been tried. One is that of the organized majority by which, as in Tammany Hall in New York and the Republican machine in Philadelphia, the boss has normal control of more than half the voters. The other is that of the adroitly managed minority. The "good people" are herded into parties and stupefied with convictions and a name, Republican or Democrat; while the "bad people" are so organized or interested by the boss that he can wield their votes to enforce terms with party managers and decide elections. St. Louis is a conspicuous example of this form. Minneapolis is another. Colonel Ed. Butler is the unscrupulous opportunist who handled the non-partisan minority which turned St. Louis into a "boodle town." In Minneapolis "Doc" Ames was the man.
